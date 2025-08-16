@@ -1,4 +1,4 @@
-# WebHackingTools Optimized v4.0 Enhanced
+# WebHackingTools
 
 A high-performance, reliable security tools installer for penetration testing and bug bounty hunting. This script automates the installation of 50+ essential security tools across multiple categories.
 
