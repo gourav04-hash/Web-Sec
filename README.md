@@ -90,7 +90,7 @@ A high-performance, reliable security tools installer for penetration testing an
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/webhackingtools-optimized.git
+git https://github.com/gourav04-hash/Web-Sec
 cd webhackingtools-optimized
 
 # Make the script executable
@@ -104,7 +104,7 @@ sudo ./install_optimized.sh
 
 1. **Download the script**:
    ```bash
-   wget https://raw.githubusercontent.com/yourusername/webhackingtools-optimized/main/install_optimized.sh
+   wget https://github.com/gourav04-hash/Web-Sec/main/install_optimized.sh
    chmod +x install_optimized.sh
    ```
 
@@ -273,11 +273,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This tool is for educational and authorized penetration testing purposes only. Users are responsible for complying with applicable laws and regulations. The authors assume no liability for misuse of this software.
 
-## 🔗 Links
-
-- [Report Issues](https://github.com/yourusername/webhackingtools-optimized/issues)
-- [Feature Requests](https://github.com/yourusername/webhackingtools-optimized/discussions)
-- [Security Policy](SECURITY.md)
 
 ## 📈 Statistics
 
