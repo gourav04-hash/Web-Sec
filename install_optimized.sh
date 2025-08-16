@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #=============================================================================
-# WebHackingTools Optimized v4.0 Enhanced
+# WebHackingTools by gourav04-hash
 # High-performance, reliable security tools installer
 #=============================================================================
 
@@ -69,7 +69,7 @@ log() {
 show_banner() {
     clear
     echo -e "${CYAN}╔══════════════════════════════════════════════════════════════════════╗${RESTORE}"
-    echo -e "${CYAN}║        WebHackingTools Optimized v4.0 Enhanced - Fast Installer     ║${RESTORE}"
+    echo -e "${CYAN}║        WebHackingTools by gourav04-hash                             ║${RESTORE}"
     echo -e "${CYAN}╚══════════════════════════════════════════════════════════════════════╝${RESTORE}"
     echo -e "\nLog file: ${LOG_FILE}"
     echo -e "Tools directory: ${TOOLS_DIRECTORY}\n"
