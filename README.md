@@ -100,23 +100,7 @@ chmod +x install_optimized.sh
 sudo ./install_optimized.sh
 ```
 
-### Manual Setup
 
-1. **Download the script**:
-   ```bash
-   wget https://github.com/gourav04-hash/Web-Sec/main/install_optimized.sh
-   chmod +x install_optimized.sh
-   ```
-
-2. **Create configuration directory** (optional):
-   ```bash
-   mkdir -p config logs
-   ```
-
-3. **Run the installer**:
-   ```bash
-   sudo ./install_optimized.sh
-   ```
 
 ## ⚙️ Configuration
 
