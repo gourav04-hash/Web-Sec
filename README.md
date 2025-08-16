@@ -90,8 +90,8 @@ A high-performance, reliable security tools installer for penetration testing an
 
 ```bash
 # Clone the repository
-git https://github.com/gourav04-hash/Web-Sec
-cd webhackingtools-optimized
+git clone https://github.com/gourav04-hash/Web-Sec
+cd Web-Sec
 
 # Make the script executable
 chmod +x install_optimized.sh
